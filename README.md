@@ -28,18 +28,19 @@ _E-ink Display_
 _NFC tag components_
 <img width="1223" height="865" alt="image" src="https://github.com/user-attachments/assets/e288bcb1-6aea-4548-b873-41ec2c29e3b5" />
 
-_LED for fun lightin on the front_
+_LED for fun lighting on the front_
 <img width="1221" height="866" alt="image" src="https://github.com/user-attachments/assets/de1a3ed0-e789-4145-90bc-0c3042287f8a" />
 
 _Final PCB Design_
+
 <img width="866" height="492" alt="image" src="https://github.com/user-attachments/assets/18a55a25-3d09-4926-ae46-372828000735" />
+
 
 _PCB front and back_
 <img width="1148" height="808" alt="image" src="https://github.com/user-attachments/assets/f63fc9c6-ac1c-489e-8c58-c314ccd64b7e" />
 
 <img width="1103" height="769" alt="image" src="https://github.com/user-attachments/assets/fe409e7e-8956-4667-8cc8-ee81ebbda3b0" />
----
-#Cus
+
 
 
 # Software
@@ -67,6 +68,9 @@ The software of this device is pretty simple all you have to do is hold the BOOT
 | **1x [10k  0402 resistors](https://www.digikey.com/en/products/detail/vishay-dale/RCA040210K0FKED/4946751)**    | $0.11 |
 | **2x [4.7k  0402 resistors](https://www.digikey.com/en/products/detail/yageo/RC0402JR-074K7L/726477)**    | $0.10 |
 | **1x [470 ohm  0402 resistors](https://www.digikey.com/en/products/detail/yageo/RC0402FR-07470RP/4935284)**    | $0.11 |
+| **1x [E-ink Display]([https://www.digikey.com/en/products/detail/yageo/RC0402FR-07470RP/4935284](https://www.amazon.com/2-13inch-Display-HAT-Two-Color-Raspberry/dp/B07Z1WYRQH/ref=sr_1_11?dib=eyJ2IjoiMSJ9.gn6VLudgU0EyGmCtn6ouiN-En84h8hGdmjGuK1-66Xws_QcTkqImKZ7qe8NUiArwhwJk9JiOutgNeIz5cPmB0ZbkMG4yFjYDLpp9DKV0toxfU2H8bp0QUR760J-i1QKpJPyA7FF0PKqdo7Qt2GiVY_zAQcLqV49bpBDsulBlm3EtA--w29KZabezZMWkaSrQsFDFI53NmnQb6Gi7EZZHmbqM53_gEwxUkAk3kj63XW4.dg_95URBlxNDf7plGtIUSDxYDGLFnQ1UMweHCZRH_n8&dib_tag=se&keywords=e-ink+display&qid=1792900939&sr=8-11))**    | $23.03 |
+| **Total Price of Parts (excluding PCB)**  | $52.77 |
 
 # Disclaimers & Credits
+This project is open source. If anything you make out of this does not work or has any issues, I sincerely apologize, but at the end of the day that's on you. Big shout out to Hack Club for giving me the opportunity to make this project. I would also like to thank **Kai Pereira**, as my project is heavily inspired his PCB badge in many ways.
 
