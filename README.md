@@ -43,7 +43,7 @@ _PCB front and back_
 
 
 # Software
-
+The software of this device is pretty simple all you have to do is hold the BOOTSEL button on the board and drop the the Badge-firmware.ino.uf2 onto the device. You will then be able to upload you're ID and play games etc.
 
 ---
 # BOM
@@ -67,4 +67,6 @@ _PCB front and back_
 | **1x [10k  0402 resistors](https://www.digikey.com/en/products/detail/vishay-dale/RCA040210K0FKED/4946751)**    | $0.11 |
 | **2x [4.7k  0402 resistors](https://www.digikey.com/en/products/detail/yageo/RC0402JR-074K7L/726477)**    | $0.10 |
 | **1x [470 ohm  0402 resistors](https://www.digikey.com/en/products/detail/yageo/RC0402FR-07470RP/4935284)**    | $0.11 |
+
+# Disclaimers & Credits
 
