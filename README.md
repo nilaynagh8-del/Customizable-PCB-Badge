@@ -57,14 +57,14 @@ _PCB front and back_
 | **6x [5mm THT LED](https://www.digikey.com/en/products/detail/rohm-semiconductor/SLR-56VC3F/636991?gclsrc=aw.ds&gad_source=1&gad_campaignid=20747733577&gbraid=0AAAAADrbLlibUioa_7C1IycEGCDz0hbTg&gclid=Cj0KCQjwrvHWBhDKARIsABmp7h10cfeflSGWLhXNBAp4XJWPd0hMV-nY00NDLkXkriuKhSCe2A7cvd8aAgY_EALw_wcB)**    | $3.30 |
 | **3x [PTS645Sx43SMTR92 Switches](https://www.digikey.com/en/products/detail/wec/PTS645SK43SMTR92LFS/27533114?gclsrc=aw.ds&gad_source=4&gad_campaignid=23033451739&gbraid=0AAAAADrbLlh-8VarSu1z8cuQMuamoVxbl&gclid=Cj0KCQjwrvHWBhDKARIsABmp7h1Eo3e9FToyXaLy61q9kBlwUjuhkKtIDu0mgIWiZOV7CFqwBuzqiGIaAisyEALw_wcB)**    | $1.08|
 | **1x [KMR2 switch](https://www.digikey.com/en/products/detail/c-k/KMR221G-LFS/550472?gclsrc=aw.ds&gad_source=1&gad_campaignid=20243136172&gbraid=0AAAAADrbLlj0U90TogABbZu38P156Ls3i&gclid=Cj0KCQjwrvHWBhDKARIsABmp7h1JYl6i5VjO5_h80ofNfqxeWJDCjkMDnMpPE0zijLod7d3QZ9AqAecaAiA4EALw_wcB)**    | $0.67 |
-| **14x[ 0402 0.1uf capacitors](https://www.digikey.com/en/products/detail/murata-electronics/GRM155C81E104KA12D/6605993?gclsrc=aw.ds&gad_source=4&gad_campaignid=20509818233&gbraid=0AAAAADrbLlis9pHS9r0m2ZhlQP6IInvQA&gclid=Cj0KCQjwrvHWBhDKARIsABmp7h07aUFT4WDWhllQ61V_xpzCK5QXNSUuiS_rN4leZ1_dai8NjVI8rQsaAgjsEALw_wcB)**    | PIANO: C3 (48) · MIRROR: C3 · DRUMS: C3    |
-| **3x [0603 10uf capacitors](https://www.digikey.com/en/products/detail/murata-electronics/GRT188R60J106ME13J/13904886?gclsrc=aw.ds&gad_source=1&gad_campaignid=20509818233&gbraid=0AAAAADrbLlhW4hUYZwqaRXxXOI1TvvnLC&gclid=Cj0KCQjwrvHWBhDKARIsABmp7h1m43mU9iI4nKG-fnOtnU_kfMY8bhoRzj5BhlG1TujyhKJdcvszKPgaAnMzEALw_wcB)**    | PIANO: D#3 (51) · MIRROR: F3 · DRUMS: F3    |
-| **4x [0402 15pf  capacitor](https://www.digikey.com/en/products/detail/yageo/CC0402FRNPO9BN150/5195051)s**    | PIANO: C3 (48) · MIRROR: C3 · DRUMS: C3    |
-| **1x [NCP1117ST33T3G](https://www.digikey.com/en/products/detail/onsemi/NCP1117ST33T3G/1749063)**    | PIANO: C3 (48) · MIRROR: C3 · DRUMS: C3    |
-| **2x [5.1k 0402 resistors](https://www.digikey.com/en/products/detail/yageo/RC0402FR-075K1L/726624)**    | PIANO: D#3 (51) · MIRROR: F3 · DRUMS: F3    |
-| **2x [27 ohm 0402 resistors](https://www.digikey.com/en/products/detail/yageo/RC0402FR-0727RL/5280946)**    | PIANO: C3 (48) · MIRROR: C3 · DRUMS: C3    |
-| **2x [1k  0402 resistors](https://www.digikey.com/en/products/detail/yageo/RC0402FR-071KL/726513)**    | PIANO: D#3 (51) · MIRROR: F3 · DRUMS: F3    |
-| **1x [10k  0402 resistors](https://www.digikey.com/en/products/detail/vishay-dale/RCA040210K0FKED/4946751)**    | |
-| **2x [4.7k  0402 resistors](https://www.digikey.com/en/products/detail/yageo/RC0402JR-074K7L/726477)**    | |
-| **1x [70 ohm  0402 resistors](https://www.digikey.com/en/products/detail/yageo/RC0402FR-07470RP/4935284)**    |  |
+| **14x[ 0402 0.1uf capacitors](https://www.digikey.com/en/products/detail/murata-electronics/GRM155C81E104KA12D/6605993?gclsrc=aw.ds&gad_source=4&gad_campaignid=20509818233&gbraid=0AAAAADrbLlis9pHS9r0m2ZhlQP6IInvQA&gclid=Cj0KCQjwrvHWBhDKARIsABmp7h07aUFT4WDWhllQ61V_xpzCK5QXNSUuiS_rN4leZ1_dai8NjVI8rQsaAgjsEALw_wcB)**    | $1.40    |
+| **3x [0603 10uf capacitors](https://www.digikey.com/en/products/detail/murata-electronics/GRT188R60J106ME13J/13904886?gclsrc=aw.ds&gad_source=1&gad_campaignid=20509818233&gbraid=0AAAAADrbLlhW4hUYZwqaRXxXOI1TvvnLC&gclid=Cj0KCQjwrvHWBhDKARIsABmp7h1m43mU9iI4nKG-fnOtnU_kfMY8bhoRzj5BhlG1TujyhKJdcvszKPgaAnMzEALw_wcB)**    | $0.63 |
+| **4x [0402 15pf  capacitors](https://www.digikey.com/en/products/detail/yageo/CC0402FRNPO9BN150/5195051)**    | $0.52    |
+| **1x [NCP1117ST33T3G](https://www.digikey.com/en/products/detail/onsemi/NCP1117ST33T3G/1749063)**    | $0.65    |
+| **2x [5.1k 0402 resistors](https://www.digikey.com/en/products/detail/yageo/RC0402FR-075K1L/726624)**    | $0.20    |
+| **2x [27 ohm 0402 resistors](https://www.digikey.com/en/products/detail/yageo/RC0402FR-0727RL/5280946)**    | $0.20    |
+| **2x [1k  0402 resistors](https://www.digikey.com/en/products/detail/yageo/RC0402FR-071KL/726513)**    | $0.20    |
+| **1x [10k  0402 resistors](https://www.digikey.com/en/products/detail/vishay-dale/RCA040210K0FKED/4946751)**    | $0.11 |
+| **2x [4.7k  0402 resistors](https://www.digikey.com/en/products/detail/yageo/RC0402JR-074K7L/726477)**    | $0.10 |
+| **1x [470 ohm  0402 resistors](https://www.digikey.com/en/products/detail/yageo/RC0402FR-07470RP/4935284)**    | $0.11 |
 
