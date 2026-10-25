@@ -11,6 +11,36 @@ A customizable PCB badge with built in NFC & games!
 - 16MB of flash storage for the rp2040
 - power only needed when playing games or changing the image on the E-ink display
 ---
+# How to Use
+| Mode (long-press SW4 to cycle) | What happens |
+|---|---|
+| 1. **Flappy** | Flappy-bird on the LED grid. SW3 = flap, SW4 = restart. Speeds up as you score. |
+| 2. **Pong** | 2-player pong, first to 5. SW3 = left paddle, SW4 = right paddle. |
+| 3. **NFC** | Pick one of 3 payloads with SW3 (URL / text / vCard), write it to the ST25DV tag with SW4. Green frame = tag present, red = not detected. Green sweep = write verified OK. |
+| 4. **Demo** | Rainbow across the whole grid. |
+
+SW2 toggles the 6 THT LEDs at any time, in any mode – it's wired straight
+to GPIO13.
+
+The NFC tag behaves like a normal Type-5 NDEF tag: after a write, tapping it to
+a phone opens the URL, shows the text, or offers the contact card.
+
+**Customizing the NFC payloads**
+
+Edit the three strings near the top of `badge-firmware.ino`:
+
+```cpp
+static const char *NFC_PAYLOAD_URL   = "https://hackclub.com";
+static const char *NFC_PAYLOAD_TEXT  = "Hello to whoever taps this badge!";
+static const char *NFC_PAYLOAD_VCARD = "BEGIN:VCARD\nVERSION:3.0\nFN:YOUR NAME...";
+```
+
+URI prefixes are auto-detected (`https://`, `http://www.`, `tel:`, `mailto:` …)
+and encoded compactly per the NDEF spec. Writes are verified by read-back; the
+password session re-opens between attempts if the first write fails. Firmware
+size per payload is capped at 254 bytes (TLV short form) but the payload
+themselves are clamped to 200 bytes each — plenty for a URL, a message, and a
+contact card on the 512-byte ST25DV04K.
 # Designing the PCB
 the PCB is pretty compact and tightly packed together with many components, which forced me to make this PCB 6 layers. I used 2 GND planes, one on the top layer and another on the bottom. For the NFC antenna I used a plugin to generate me one with copper wire routing to make it part of the PCB itself so it doesn't require an external antenna. here are some photos of the design below.
 
