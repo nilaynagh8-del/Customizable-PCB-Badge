@@ -74,7 +74,7 @@ _PCB front and back_
 
 
 # Software
-The software of this device is pretty simple all you have to do is hold the BOOTSEL button on the board and drop the the Badge-firmware.ino.uf2 onto the device. You will then be able to upload you're ID and play games etc.
+The software of this device is pretty simple all you have to do is hold the BOOTSEL button on the board and drop the the [Badge-firmware.ino.uf2](https://github.com/nilaynagh8-del/Customizable-PCB-Badge/blob/main/badge-uf2/badge-firmware.ino.uf2) onto the device. You will then be able to upload you're ID and play games etc.
 
 ---
 # BOM
